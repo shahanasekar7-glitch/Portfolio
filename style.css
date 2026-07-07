@@ -268,3 +268,14 @@ footer {
     border-radius: 15px;
     margin-top: 20px;
 }
+.home-content {
+    position: relative;
+    z-index: 2;
+    color: white;
+}
+
+.home-content h1 {
+    display: block;
+    color: white;
+    font-size: 50px;
+}
