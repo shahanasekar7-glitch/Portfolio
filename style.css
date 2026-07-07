@@ -269,13 +269,15 @@ footer {
     margin-top: 20px;
 }
 .home-content {
-    position: relative;
-    z-index: 2;
-    color: white;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    color: white !important;
 }
 
 .home-content h1 {
-    display: block;
-    color: white;
-    font-size: 50px;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    color: white !important;
 }
